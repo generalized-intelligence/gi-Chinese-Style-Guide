@@ -67,7 +67,7 @@
 ### 英文
 * 大小写乱用是绝对不可接受的。
 * 一律使用半角。
-* 逗号、顿号、句号、感叹号、问号后留一个空格。
+* 逗号、分号、冒号、句号、感叹号、问号后留一个空格。
 * 省略号是 …。注意这是一个单独的符号，不是三个点。（若妳试图删除这个符号，会发现按一下 delete 即可删除，而不是三下。）
 * 破折号是 —（em dash），表示「从哪到哪」是 –（en dash，例如 1980–1992）。前者在 Mac 上可用 shift option - 打出，后者可用 option - 打出。在某些文字处理软件（例如 Word）里，连续打两个 hyphen 会被自动转为 em dash。
 * 括号和它外面的字母之间留一个空格，和它里面的字母之间不留空格。例：Richard D. James (aka Aphex Twin) is a pioneer of the so-called Intelligent Dance Music.
